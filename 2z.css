@@ -1,0 +1,32 @@
+h1{
+    font-family: Arial, sans-serif;
+}
+
+
+html{
+    background-image: url('https://fonoteka.top/uploads/posts/2022-02/1645204232_29-phonoteka-org-p-fon-s-kotikami-dlya-fotoshopa-32.jpg');
+    min-height:100%;
+    background-size:cover;
+}
+
+
+body{
+    background-color: papayawhip;
+    border-radius: 10px;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Comic Sans Ms', serif;
+    font-size: 20px;  
+    text-shadow: 3px 3px 3px #aaa;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%,-50%);
+    height: 15em;
+
+}
+
+
+
